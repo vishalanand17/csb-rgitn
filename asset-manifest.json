@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vishalanand17.github.io/csb-rgitn/static/css/main.5e04d3c2.chunk.css",
+    "main.js": "https://vishalanand17.github.io/csb-rgitn/static/js/main.e6c1bf3a.chunk.js",
+    "main.js.map": "https://vishalanand17.github.io/csb-rgitn/static/js/main.e6c1bf3a.chunk.js.map",
+    "runtime-main.js": "https://vishalanand17.github.io/csb-rgitn/static/js/runtime-main.6ab7986e.js",
+    "runtime-main.js.map": "https://vishalanand17.github.io/csb-rgitn/static/js/runtime-main.6ab7986e.js.map",
+    "static/js/2.0daa04f9.chunk.js": "https://vishalanand17.github.io/csb-rgitn/static/js/2.0daa04f9.chunk.js",
+    "static/js/2.0daa04f9.chunk.js.map": "https://vishalanand17.github.io/csb-rgitn/static/js/2.0daa04f9.chunk.js.map",
+    "index.html": "https://vishalanand17.github.io/csb-rgitn/index.html",
+    "static/css/main.5e04d3c2.chunk.css.map": "https://vishalanand17.github.io/csb-rgitn/static/css/main.5e04d3c2.chunk.css.map",
+    "static/js/2.0daa04f9.chunk.js.LICENSE.txt": "https://vishalanand17.github.io/csb-rgitn/static/js/2.0daa04f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ab7986e.js",
+    "static/js/2.0daa04f9.chunk.js",
+    "static/css/main.5e04d3c2.chunk.css",
+    "static/js/main.e6c1bf3a.chunk.js"
+  ]
+}
